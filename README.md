@@ -1,7 +1,5 @@
 # Dotnet Zero To Hero
 
-# Dotnet Zero To Hero
-
 **Dotnet Zero To Hero** is a learning path that takes you from the very basics of **C#** to building real-world applications with **.NET**.  
 The goal is to give you strong fundamentals, then layer on real examples, so you can move from “I kind of know C#” to “I can design and reason about real systems.”
 
