@@ -13,6 +13,9 @@ The goal is to give you strong fundamentals, then layer on real examples, so you
    - [Lesson 3: Abstraction](#lesson-3-Abstraction)
    - [Lesson 4: Inheritance](#lesson-4-Inheritance)
    - [Lesson 5: Polymorphism](#lesson-5-Polymorphism)
+2. [LINQ in C#](#linq-in-c)
+   - [Lesson 1: Why Does LINQ Exist? (The Intuition)](#lesson-1-why-does-linq-exist-the-intuition)
+   - [Lesson 2: Where and Select — The Bread and Butter](#lesson-2-where-and-select--the-bread-and-butter)
 
 ---
 
@@ -1825,6 +1828,9 @@ Where each pillar appears:
    - What does `virtual` + `override` do?  
    - What happens if you accidentally use `new` instead of `override`?  
    - How can that break polymorphism?
+
+
+
 
 
 
