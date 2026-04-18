@@ -556,7 +556,6 @@ Think through these questions:
 3. **Start private, open up only when necessary** – you can always relax a restriction later, but you can’t easily take back a `public` API once other code depends on it.
 
 
-[Table of Contents] (#Table-of-Contents)
 # Lesson 3: Abstraction
 
 Now that you’ve seen **encapsulation**, let’s talk about its sibling that everyone confuses it with: **abstraction**.
