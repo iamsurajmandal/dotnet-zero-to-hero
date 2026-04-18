@@ -206,8 +206,3 @@ Each pillar solves a **real, painful problem** that appears as software gets lar
 - sharing behavior cleanly,  
 - and letting different types respond in their own way to the same message.
 
-In the next lessons, we’ll take each pillar and see:
-
-- **what it means in plain language**,  
-- **how it looks in C#**, and  
-- **where it helps in real-world .NET code**.
